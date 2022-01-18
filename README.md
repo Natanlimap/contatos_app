@@ -3,6 +3,7 @@ This project implements a contact management application proposed by the profess
 
 ## Screenshots
 
+<img src="https://user-images.githubusercontent.com/52389405/150025127-2c5a2c34-7777-4012-a474-b9a2970ff278.png" width=320 height=580> 
 ![Screenshot_1642542997](https://user-images.githubusercontent.com/52389405/150025127-2c5a2c34-7777-4012-a474-b9a2970ff278.png)
 ![Screenshot_1642543000](https://user-images.githubusercontent.com/52389405/150025132-9f74b814-a846-4183-b0c8-a37a2edac70e.png)
 ![Screenshot_1642543002](https://user-images.githubusercontent.com/52389405/150025134-79889281-44d5-4984-9d9c-d4c387083562.png)
